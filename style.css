@@ -66,11 +66,6 @@ input {
   transition: 0.5s;
 }
 
-#login-button{
-  width: 40%;
-  display: flexbox;
-  justify-content: center;
-
 input.dark-mode {
   background-color: #424242;
   color: white;
