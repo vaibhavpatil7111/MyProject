@@ -70,10 +70,6 @@ input.dark-mode {
   background-color: #424242;
   color: white;
 }
-#login-button{
-  width: 40%;
-  display: flexbox;
-  justify-content: center;
 
 input:focus {
   outline: none;
